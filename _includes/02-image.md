@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb6%2FImage_created_with_a_mobile_phone.png%2F1200px-Image_created_with_a_mobile_phone.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&tbnid=gxFxsvFBmxeZ9M&vet=12ahUKEwii8_rmz97zAhUGqHIEHftcDKUQMygAegUIARDKAQ..i&docid=0JWe7yDOKrVFAM&w=1200&h=900&itg=1&q=image&client=opera-gx&ved=2ahUKEwii8_rmz97zAhUGqHIEHftcDKUQMygAegUIARDKAQ 
