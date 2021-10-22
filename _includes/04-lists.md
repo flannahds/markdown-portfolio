@@ -1,3 +1,3 @@
--games
--food
--computers
+* games
+* food
+* computers
